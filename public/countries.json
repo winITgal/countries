@@ -1,0 +1,5494 @@
+[
+  {
+    "id": 1,
+    "flag": "https://flagcdn.com/gs.svg",
+    "internationalName": "South Georgia and the South Sandwich Islands",
+    "population": "30",
+    "region": "Antarctic",
+    "capital": "King Edward Point",
+    "nativeName": "South Georgia",
+    "subRegion": null,
+    "topLevelDomain": ".gs",
+    "currencies": [
+      "Saint Helena pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 2,
+    "flag": "https://flagcdn.com/gd.svg",
+    "internationalName": "Grenada",
+    "population": "112519",
+    "region": "Americas",
+    "capital": "St. George's",
+    "nativeName": "Grenada",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".gd",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 3,
+    "flag": "https://flagcdn.com/ch.svg",
+    "internationalName": "Swiss Confederation",
+    "population": "8654622",
+    "region": "Europe",
+    "capital": "Bern",
+    "nativeName": "Suisse",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".ch",
+    "currencies": [
+      "Swiss franc"
+    ],
+    "languages": [
+      "French",
+      "Swiss German",
+      "Italian",
+      "Romansh"
+    ],
+    "borderCountries": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ]
+  },
+  {
+    "id": 4,
+    "flag": "https://flagcdn.com/sl.svg",
+    "internationalName": "Republic of Sierra Leone",
+    "population": "7976985",
+    "region": "Africa",
+    "capital": "Freetown",
+    "nativeName": "Sierra Leone",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".sl",
+    "currencies": [
+      "Sierra Leonean leone"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "GIN",
+      "LBR"
+    ]
+  },
+  {
+    "id": 5,
+    "flag": "https://flagcdn.com/hu.svg",
+    "internationalName": "Hungary",
+    "population": "9749763",
+    "region": "Europe",
+    "capital": "Budapest",
+    "nativeName": "Magyarorsz\u00e1g",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".hu",
+    "currencies": [
+      "Hungarian forint"
+    ],
+    "languages": [
+      "Hungarian"
+    ],
+    "borderCountries": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ]
+  },
+  {
+    "id": 6,
+    "flag": "https://flagcdn.com/tw.svg",
+    "internationalName": "Republic of China (Taiwan)",
+    "population": "23503349",
+    "region": "Asia",
+    "capital": "Taipei",
+    "nativeName": "\u53f0\u7063",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".tw",
+    "currencies": [
+      "New Taiwan dollar"
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 7,
+    "flag": "https://flagcdn.com/wf.svg",
+    "internationalName": "Territory of the Wallis and Futuna Islands",
+    "population": "11750",
+    "region": "Oceania",
+    "capital": "Mata-Utu",
+    "nativeName": "Wallis et Futuna",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".wf",
+    "currencies": [
+      "CFP franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 8,
+    "flag": "https://flagcdn.com/bb.svg",
+    "internationalName": "Barbados",
+    "population": "287371",
+    "region": "Americas",
+    "capital": "Bridgetown",
+    "nativeName": "Barbados",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".bb",
+    "currencies": [
+      "Barbadian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 9,
+    "flag": "https://flagcdn.com/pn.svg",
+    "internationalName": "Pitcairn Group of Islands",
+    "population": "56",
+    "region": "Oceania",
+    "capital": "Adamstown",
+    "nativeName": "Pitcairn Islands",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".pn",
+    "currencies": [
+      "New Zealand dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 10,
+    "flag": "https://flagcdn.com/ci.svg",
+    "internationalName": "Republic of C\u00f4te d'Ivoire",
+    "population": "26378275",
+    "region": "Africa",
+    "capital": "Yamoussoukro",
+    "nativeName": "C\u00f4te d'Ivoire",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".ci",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ]
+  },
+  {
+    "id": 11,
+    "flag": "https://flagcdn.com/tn.svg",
+    "internationalName": "Tunisian Republic",
+    "population": "11818618",
+    "region": "Africa",
+    "capital": "Tunis",
+    "nativeName": "\u062a\u0648\u0646\u0633",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".tn",
+    "currencies": [
+      "Tunisian dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "DZA",
+      "LBY"
+    ]
+  },
+  {
+    "id": 12,
+    "flag": "https://flagcdn.com/it.svg",
+    "internationalName": "Italian Republic",
+    "population": "59554023",
+    "region": "Europe",
+    "capital": "Rome",
+    "nativeName": "Italia",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".it",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Italian"
+    ],
+    "borderCountries": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ]
+  },
+  {
+    "id": 13,
+    "flag": "https://flagcdn.com/bj.svg",
+    "internationalName": "Republic of Benin",
+    "population": "12123198",
+    "region": "Africa",
+    "capital": "Porto-Novo",
+    "nativeName": "B\u00e9nin",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".bj",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ]
+  },
+  {
+    "id": 14,
+    "flag": "https://flagcdn.com/id.svg",
+    "internationalName": "Republic of Indonesia",
+    "population": "273523621",
+    "region": "Asia",
+    "capital": "Jakarta",
+    "nativeName": "Indonesia",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".id",
+    "currencies": [
+      "Indonesian rupiah"
+    ],
+    "languages": [
+      "Indonesian"
+    ],
+    "borderCountries": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ]
+  },
+  {
+    "id": 15,
+    "flag": "https://flagcdn.com/cv.svg",
+    "internationalName": "Republic of Cabo Verde",
+    "population": "555988",
+    "region": "Africa",
+    "capital": "Praia",
+    "nativeName": "Cabo Verde",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".cv",
+    "currencies": [
+      "Cape Verdean escudo"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 16,
+    "flag": "https://flagcdn.com/kn.svg",
+    "internationalName": "Federation of Saint Christopher and Nevis",
+    "population": "53192",
+    "region": "Americas",
+    "capital": "Basseterre",
+    "nativeName": "Saint Kitts and Nevis",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".kn",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 17,
+    "flag": "https://flagcdn.com/la.svg",
+    "internationalName": "Lao People's Democratic Republic",
+    "population": "7275556",
+    "region": "Asia",
+    "capital": "Vientiane",
+    "nativeName": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".la",
+    "currencies": [
+      "Lao kip"
+    ],
+    "languages": [
+      "Lao"
+    ],
+    "borderCountries": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ]
+  },
+  {
+    "id": 18,
+    "flag": "https://flagcdn.com/bq.svg",
+    "internationalName": "Bonaire, Sint Eustatius and Saba",
+    "population": "25987",
+    "region": "Americas",
+    "capital": "Kralendijk",
+    "nativeName": "Caribisch Nederland",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".bq",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 19,
+    "flag": "https://flagcdn.com/ug.svg",
+    "internationalName": "Republic of Uganda",
+    "population": "45741000",
+    "region": "Africa",
+    "capital": "Kampala",
+    "nativeName": "Uganda",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".ug",
+    "currencies": [
+      "Ugandan shilling"
+    ],
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borderCountries": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ]
+  },
+  {
+    "id": 20,
+    "flag": "https://flagcdn.com/ad.svg",
+    "internationalName": "Principality of Andorra",
+    "population": "77265",
+    "region": "Europe",
+    "capital": "Andorra la Vella",
+    "nativeName": "Andorra",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".ad",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Catalan"
+    ],
+    "borderCountries": [
+      "FRA",
+      "ESP"
+    ]
+  },
+  {
+    "id": 21,
+    "flag": "https://flagcdn.com/bi.svg",
+    "internationalName": "Republic of Burundi",
+    "population": "11890781",
+    "region": "Africa",
+    "capital": "Gitega",
+    "nativeName": "Burundi",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".bi",
+    "currencies": [
+      "Burundian franc"
+    ],
+    "languages": [
+      "French",
+      "Kirundi"
+    ],
+    "borderCountries": [
+      "COD",
+      "RWA",
+      "TZA"
+    ]
+  },
+  {
+    "id": 22,
+    "flag": "https://flagcdn.com/za.svg",
+    "internationalName": "Republic of South Africa",
+    "population": "59308690",
+    "region": "Africa",
+    "capital": "Pretoria",
+    "nativeName": "South Africa",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".za",
+    "currencies": [
+      "South African rand"
+    ],
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "borderCountries": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ]
+  },
+  {
+    "id": 23,
+    "flag": "https://flagcdn.com/fr.svg",
+    "internationalName": "French Republic",
+    "population": "67391582",
+    "region": "Europe",
+    "capital": "Paris",
+    "nativeName": "France",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".fr",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ]
+  },
+  {
+    "id": 24,
+    "flag": "https://flagcdn.com/ly.svg",
+    "internationalName": "State of Libya",
+    "population": "6871287",
+    "region": "Africa",
+    "capital": "Tripoli",
+    "nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".ly",
+    "currencies": [
+      "Libyan dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ]
+  },
+  {
+    "id": 25,
+    "flag": "https://flagcdn.com/mx.svg",
+    "internationalName": "United Mexican States",
+    "population": "128932753",
+    "region": "Americas",
+    "capital": "Mexico City",
+    "nativeName": "M\u00e9xico",
+    "subRegion": "North America",
+    "topLevelDomain": ".mx",
+    "currencies": [
+      "Mexican peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ]
+  },
+  {
+    "id": 26,
+    "flag": "https://flagcdn.com/ga.svg",
+    "internationalName": "Gabonese Republic",
+    "population": "2225728",
+    "region": "Africa",
+    "capital": "Libreville",
+    "nativeName": "Gabon",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".ga",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ]
+  },
+  {
+    "id": 27,
+    "flag": "https://flagcdn.com/mp.svg",
+    "internationalName": "Commonwealth of the Northern Mariana Islands",
+    "population": "57557",
+    "region": "Oceania",
+    "capital": "Saipan",
+    "nativeName": "Northern Mariana Islands",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".mp",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "Carolinian",
+      "Chamorro",
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 28,
+    "flag": "https://flagcdn.com/mk.svg",
+    "internationalName": "Republic of North Macedonia",
+    "population": "2077132",
+    "region": "Europe",
+    "capital": "Skopje",
+    "nativeName": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".mk",
+    "currencies": [
+      "denar"
+    ],
+    "languages": [
+      "Macedonian"
+    ],
+    "borderCountries": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ]
+  },
+  {
+    "id": 29,
+    "flag": "https://flagcdn.com/cn.svg",
+    "internationalName": "People's Republic of China",
+    "population": "1402112000",
+    "region": "Asia",
+    "capital": "Beijing",
+    "nativeName": "\u4e2d\u56fd",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".cn",
+    "currencies": [
+      "Chinese yuan"
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "borderCountries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ]
+  },
+  {
+    "id": 30,
+    "flag": "https://flagcdn.com/ye.svg",
+    "internationalName": "Republic of Yemen",
+    "population": "29825968",
+    "region": "Asia",
+    "capital": "Sana'a",
+    "nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".ye",
+    "currencies": [
+      "Yemeni rial"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "OMN",
+      "SAU"
+    ]
+  },
+  {
+    "id": 31,
+    "flag": "https://flagcdn.com/bl.svg",
+    "internationalName": "Collectivity of Saint Barth\u00e9lemy",
+    "population": "4255",
+    "region": "Americas",
+    "capital": "Gustavia",
+    "nativeName": "Saint-Barth\u00e9lemy",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".bl",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 32,
+    "flag": "https://flagcdn.com/gg.svg",
+    "internationalName": "Bailiwick of Guernsey",
+    "population": "62999",
+    "region": "Europe",
+    "capital": "St. Peter Port",
+    "nativeName": "Guernsey",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".gg",
+    "currencies": [
+      "British pound",
+      "Guernsey pound"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Guern\u00e9siais"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 33,
+    "flag": "https://flagcdn.com/sb.svg",
+    "internationalName": "Solomon Islands",
+    "population": "686878",
+    "region": "Oceania",
+    "capital": "Honiara",
+    "nativeName": "Solomon Islands",
+    "subRegion": "Melanesia",
+    "topLevelDomain": ".sb",
+    "currencies": [
+      "Solomon Islands dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 34,
+    "flag": "https://flagcdn.com/sj.svg",
+    "internationalName": "Svalbard og Jan Mayen",
+    "population": "2562",
+    "region": "Europe",
+    "capital": "Longyearbyen",
+    "nativeName": "Svalbard og Jan Mayen",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".sj",
+    "currencies": [
+      "krone"
+    ],
+    "languages": [
+      "Norwegian"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 35,
+    "flag": "https://flagcdn.com/fo.svg",
+    "internationalName": "Faroe Islands",
+    "population": "48865",
+    "region": "Europe",
+    "capital": "T\u00f3rshavn",
+    "nativeName": "F\u00e6r\u00f8erne",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".fo",
+    "currencies": [
+      "Danish krone",
+      "Faroese kr\u00f3na"
+    ],
+    "languages": [
+      "Danish",
+      "Faroese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 36,
+    "flag": "https://flagcdn.com/uz.svg",
+    "internationalName": "Republic of Uzbekistan",
+    "population": "34232050",
+    "region": "Asia",
+    "capital": "Tashkent",
+    "nativeName": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+    "subRegion": "Central Asia",
+    "topLevelDomain": ".uz",
+    "currencies": [
+      "Uzbekistani so\u02bbm"
+    ],
+    "languages": [
+      "Russian",
+      "Uzbek"
+    ],
+    "borderCountries": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ]
+  },
+  {
+    "id": 37,
+    "flag": "https://flagcdn.com/eg.svg",
+    "internationalName": "Arab Republic of Egypt",
+    "population": "102334403",
+    "region": "Africa",
+    "capital": "Cairo",
+    "nativeName": "\u0645\u0635\u0631",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".eg",
+    "currencies": [
+      "Egyptian pound"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ]
+  },
+  {
+    "id": 38,
+    "flag": "https://flagcdn.com/sn.svg",
+    "internationalName": "Republic of Senegal",
+    "population": "16743930",
+    "region": "Africa",
+    "capital": "Dakar",
+    "nativeName": "S\u00e9n\u00e9gal",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".sn",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ]
+  },
+  {
+    "id": 39,
+    "flag": "https://flagcdn.com/lk.svg",
+    "internationalName": "Democratic Socialist Republic of Sri Lanka",
+    "population": "21919000",
+    "region": "Asia",
+    "capital": "Sri Jayawardenepura Kotte",
+    "nativeName": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".lk",
+    "currencies": [
+      "Sri Lankan rupee"
+    ],
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "borderCountries": [
+      "IND"
+    ]
+  },
+  {
+    "id": 40,
+    "flag": "https://flagcdn.com/ps.svg",
+    "internationalName": "State of Palestine",
+    "population": "4803269",
+    "region": "Asia",
+    "capital": "Ramallah",
+    "nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".ps",
+    "currencies": [
+      "Egyptian pound",
+      "Israeli new shekel",
+      "Jordanian dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ]
+  },
+  {
+    "id": 41,
+    "flag": "https://flagcdn.com/bd.svg",
+    "internationalName": "People's Republic of Bangladesh",
+    "population": "164689383",
+    "region": "Asia",
+    "capital": "Dhaka",
+    "nativeName": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".bd",
+    "currencies": [
+      "Bangladeshi taka"
+    ],
+    "languages": [
+      "Bengali"
+    ],
+    "borderCountries": [
+      "MMR",
+      "IND"
+    ]
+  },
+  {
+    "id": 42,
+    "flag": "https://flagcdn.com/pe.svg",
+    "internationalName": "Republic of Peru",
+    "population": "32971846",
+    "region": "Americas",
+    "capital": "Lima",
+    "nativeName": "Piruw",
+    "subRegion": "South America",
+    "topLevelDomain": ".pe",
+    "currencies": [
+      "Peruvian sol"
+    ],
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ]
+  },
+  {
+    "id": 43,
+    "flag": "https://flagcdn.com/sg.svg",
+    "internationalName": "Republic of Singapore",
+    "population": "5685807",
+    "region": "Asia",
+    "capital": "Singapore",
+    "nativeName": "Singapore",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".sg",
+    "currencies": [
+      "Singapore dollar"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Malay",
+      "Tamil"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 44,
+    "flag": "https://flagcdn.com/tr.svg",
+    "internationalName": "Republic of Turkey",
+    "population": "84339067",
+    "region": "Asia",
+    "capital": "Ankara",
+    "nativeName": "T\u00fcrkiye",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".tr",
+    "currencies": [
+      "Turkish lira"
+    ],
+    "languages": [
+      "Turkish"
+    ],
+    "borderCountries": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ]
+  },
+  {
+    "id": 45,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "internationalName": "Islamic Republic of Afghanistan",
+    "population": "40218234",
+    "region": "Asia",
+    "capital": "Kabul",
+    "nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".af",
+    "currencies": [
+      "Afghan afghani"
+    ],
+    "languages": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ],
+    "borderCountries": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ]
+  },
+  {
+    "id": 46,
+    "flag": "https://flagcdn.com/aw.svg",
+    "internationalName": "Aruba",
+    "population": "106766",
+    "region": "Americas",
+    "capital": "Oranjestad",
+    "nativeName": "Aruba",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".aw",
+    "currencies": [
+      "Aruban florin"
+    ],
+    "languages": [
+      "Dutch",
+      "Papiamento"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 47,
+    "flag": "https://flagcdn.com/ck.svg",
+    "internationalName": "Cook Islands",
+    "population": "18100",
+    "region": "Oceania",
+    "capital": "Avarua",
+    "nativeName": "Cook Islands",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".ck",
+    "currencies": [
+      "Cook Islands dollar",
+      "New Zealand dollar"
+    ],
+    "languages": [
+      "English",
+      "Cook Islands M\u0101ori"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 48,
+    "flag": "https://flagcdn.com/gb.svg",
+    "internationalName": "United Kingdom of Great Britain and Northern Ireland",
+    "population": "67215293",
+    "region": "Europe",
+    "capital": "London",
+    "nativeName": "United Kingdom",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".uk",
+    "currencies": [
+      "British pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "IRL"
+    ]
+  },
+  {
+    "id": 49,
+    "flag": "https://flagcdn.com/zm.svg",
+    "internationalName": "Republic of Zambia",
+    "population": "18383956",
+    "region": "Africa",
+    "capital": "Lusaka",
+    "nativeName": "Zambia",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".zm",
+    "currencies": [
+      "Zambian kwacha"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ]
+  },
+  {
+    "id": 50,
+    "flag": "https://flagcdn.com/fi.svg",
+    "internationalName": "Republic of Finland",
+    "population": "5530719",
+    "region": "Europe",
+    "capital": "Helsinki",
+    "nativeName": "Suomi",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".fi",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "borderCountries": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ]
+  },
+  {
+    "id": 51,
+    "flag": "https://flagcdn.com/ne.svg",
+    "internationalName": "Republic of Niger",
+    "population": "24206636",
+    "region": "Africa",
+    "capital": "Niamey",
+    "nativeName": "Niger",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".ne",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ]
+  },
+  {
+    "id": 52,
+    "flag": "https://flagcdn.com/cx.svg",
+    "internationalName": "Territory of Christmas Island",
+    "population": "2072",
+    "region": "Oceania",
+    "capital": "Flying Fish Cove",
+    "nativeName": "Christmas Island",
+    "subRegion": "Australia and New Zealand",
+    "topLevelDomain": ".cx",
+    "currencies": [
+      "Australian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 53,
+    "flag": "https://flagcdn.com/tk.svg",
+    "internationalName": "Tokelau",
+    "population": "1411",
+    "region": "Oceania",
+    "capital": "Fakaofo",
+    "nativeName": "Tokelau",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".tk",
+    "currencies": [
+      "New Zealand dollar"
+    ],
+    "languages": [
+      "English",
+      "Samoan",
+      "Tokelauan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 54,
+    "flag": "https://flagcdn.com/gw.svg",
+    "internationalName": "Republic of Guinea-Bissau",
+    "population": "1967998",
+    "region": "Africa",
+    "capital": "Bissau",
+    "nativeName": "Guin\u00e9-Bissau",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".gw",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ],
+    "borderCountries": [
+      "GIN",
+      "SEN"
+    ]
+  },
+  {
+    "id": 55,
+    "flag": "https://flagcdn.com/az.svg",
+    "internationalName": "Republic of Azerbaijan",
+    "population": "10110116",
+    "region": "Asia",
+    "capital": "Baku",
+    "nativeName": "Az\u0259rbaycan",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".az",
+    "currencies": [
+      "Azerbaijani manat"
+    ],
+    "languages": [
+      "Azerbaijani"
+    ],
+    "borderCountries": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ]
+  },
+  {
+    "id": 56,
+    "flag": "https://flagcdn.com/re.svg",
+    "internationalName": "R\u00e9union Island",
+    "population": "840974",
+    "region": "Africa",
+    "capital": "Saint-Denis",
+    "nativeName": "La R\u00e9union",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".re",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 57,
+    "flag": "https://flagcdn.com/dj.svg",
+    "internationalName": "Republic of Djibouti",
+    "population": "988002",
+    "region": "Africa",
+    "capital": "Djibouti",
+    "nativeName": "\u062c\u064a\u0628\u0648\u062a\u064a\u200e",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".dj",
+    "currencies": [
+      "Djiboutian franc"
+    ],
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borderCountries": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ]
+  },
+  {
+    "id": 58,
+    "flag": "https://flagcdn.com/kp.svg",
+    "internationalName": "Democratic People's Republic of Korea",
+    "population": "25778815",
+    "region": "Asia",
+    "capital": "Pyongyang",
+    "nativeName": "\uc870\uc120",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".kp",
+    "currencies": [
+      "North Korean won"
+    ],
+    "languages": [
+      "Korean"
+    ],
+    "borderCountries": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ]
+  },
+  {
+    "id": 59,
+    "flag": "https://flagcdn.com/mu.svg",
+    "internationalName": "Republic of Mauritius",
+    "population": "1265740",
+    "region": "Africa",
+    "capital": "Port Louis",
+    "nativeName": "Mauritius",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".mu",
+    "currencies": [
+      "Mauritian rupee"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 60,
+    "flag": "https://flagcdn.com/ms.svg",
+    "internationalName": "Montserrat",
+    "population": "4922",
+    "region": "Americas",
+    "capital": "Plymouth",
+    "nativeName": "Montserrat",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".ms",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 61,
+    "flag": "https://flagcdn.com/vi.svg",
+    "internationalName": "Virgin Islands of the United States",
+    "population": "106290",
+    "region": "Americas",
+    "capital": "Charlotte Amalie",
+    "nativeName": "United States Virgin Islands",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".vi",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 62,
+    "flag": "https://flagcdn.com/co.svg",
+    "internationalName": "Republic of Colombia",
+    "population": "50882884",
+    "region": "Americas",
+    "capital": "Bogot\u00e1",
+    "nativeName": "Colombia",
+    "subRegion": "South America",
+    "topLevelDomain": ".co",
+    "currencies": [
+      "Colombian peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ]
+  },
+  {
+    "id": 63,
+    "flag": "https://flagcdn.com/gr.svg",
+    "internationalName": "Hellenic Republic",
+    "population": "10715549",
+    "region": "Europe",
+    "capital": "Athens",
+    "nativeName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".gr",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Greek"
+    ],
+    "borderCountries": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ]
+  },
+  {
+    "id": 64,
+    "flag": "https://flagcdn.com/hr.svg",
+    "internationalName": "Republic of Croatia",
+    "population": "4047200",
+    "region": "Europe",
+    "capital": "Zagreb",
+    "nativeName": "Hrvatska",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".hr",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Croatian"
+    ],
+    "borderCountries": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ]
+  },
+  {
+    "id": 65,
+    "flag": "https://flagcdn.com/ma.svg",
+    "internationalName": "Kingdom of Morocco",
+    "population": "36910558",
+    "region": "Africa",
+    "capital": "Rabat",
+    "nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".ma",
+    "currencies": [
+      "Moroccan dirham"
+    ],
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "borderCountries": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ]
+  },
+  {
+    "id": 66,
+    "flag": "https://flagcdn.com/dz.svg",
+    "internationalName": "People's Democratic Republic of Algeria",
+    "population": "44700000",
+    "region": "Africa",
+    "capital": "Algiers",
+    "nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".dz",
+    "currencies": [
+      "Algerian dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ]
+  },
+  {
+    "id": 67,
+    "flag": "https://flagcdn.com/aq.svg",
+    "internationalName": "Antarctica",
+    "population": "1000",
+    "region": "Antarctic",
+    "capital": null,
+    "nativeName": null,
+    "subRegion": null,
+    "topLevelDomain": ".aq",
+    "currencies": [],
+    "languages": [],
+    "borderCountries": []
+  },
+  {
+    "id": 68,
+    "flag": "https://flagcdn.com/nl.svg",
+    "internationalName": "Kingdom of the Netherlands",
+    "population": "16655799",
+    "region": "Europe",
+    "capital": "Amsterdam",
+    "nativeName": "Nederland",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".nl",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Dutch"
+    ],
+    "borderCountries": [
+      "BEL",
+      "DEU"
+    ]
+  },
+  {
+    "id": 69,
+    "flag": "https://flagcdn.com/sd.svg",
+    "internationalName": "Republic of the Sudan",
+    "population": "43849269",
+    "region": "Africa",
+    "capital": "Khartoum",
+    "nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".sd",
+    "currencies": [
+      "Sudanese pound"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "borderCountries": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ]
+  },
+  {
+    "id": 70,
+    "flag": "https://flagcdn.com/fj.svg",
+    "internationalName": "Republic of Fiji",
+    "population": "896444",
+    "region": "Oceania",
+    "capital": "Suva",
+    "nativeName": "Fiji",
+    "subRegion": "Melanesia",
+    "topLevelDomain": ".fj",
+    "currencies": [
+      "Fijian dollar"
+    ],
+    "languages": [
+      "English",
+      "Fijian",
+      "Fiji Hindi"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 71,
+    "flag": "https://flagcdn.com/li.svg",
+    "internationalName": "Principality of Liechtenstein",
+    "population": "38137",
+    "region": "Europe",
+    "capital": "Vaduz",
+    "nativeName": "Liechtenstein",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".li",
+    "currencies": [
+      "Swiss franc"
+    ],
+    "languages": [
+      "German"
+    ],
+    "borderCountries": [
+      "AUT",
+      "CHE"
+    ]
+  },
+  {
+    "id": 72,
+    "flag": "https://flagcdn.com/np.svg",
+    "internationalName": "Federal Democratic Republic of Nepal",
+    "population": "29136808",
+    "region": "Asia",
+    "capital": "Kathmandu",
+    "nativeName": "\u0928\u0947\u092a\u093e\u0932",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".np",
+    "currencies": [
+      "Nepalese rupee"
+    ],
+    "languages": [
+      "Nepali"
+    ],
+    "borderCountries": [
+      "CHN",
+      "IND"
+    ]
+  },
+  {
+    "id": 73,
+    "flag": "https://flagcdn.com/pr.svg",
+    "internationalName": "Commonwealth of Puerto Rico",
+    "population": "3194034",
+    "region": "Americas",
+    "capital": "San Juan",
+    "nativeName": "Puerto Rico",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".pr",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 74,
+    "flag": "https://flagcdn.com/ge.svg",
+    "internationalName": "Georgia",
+    "population": "3714000",
+    "region": "Asia",
+    "capital": "Tbilisi",
+    "nativeName": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".ge",
+    "currencies": [
+      "lari"
+    ],
+    "languages": [
+      "Georgian"
+    ],
+    "borderCountries": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ]
+  },
+  {
+    "id": 75,
+    "flag": "https://flagcdn.com/pk.svg",
+    "internationalName": "Islamic Republic of Pakistan",
+    "population": "220892331",
+    "region": "Asia",
+    "capital": "Islamabad",
+    "nativeName": "Pakistan",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".pk",
+    "currencies": [
+      "Pakistani rupee"
+    ],
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "borderCountries": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ]
+  },
+  {
+    "id": 76,
+    "flag": "https://flagcdn.com/mc.svg",
+    "internationalName": "Principality of Monaco",
+    "population": "39244",
+    "region": "Europe",
+    "capital": "Monaco",
+    "nativeName": "Monaco",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".mc",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "FRA"
+    ]
+  },
+  {
+    "id": 77,
+    "flag": "https://flagcdn.com/bw.svg",
+    "internationalName": "Republic of Botswana",
+    "population": "2351625",
+    "region": "Africa",
+    "capital": "Gaborone",
+    "nativeName": "Botswana",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".bw",
+    "currencies": [
+      "Botswana pula"
+    ],
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "borderCountries": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ]
+  },
+  {
+    "id": 78,
+    "flag": "https://flagcdn.com/lb.svg",
+    "internationalName": "Lebanese Republic",
+    "population": "6825442",
+    "region": "Asia",
+    "capital": "Beirut",
+    "nativeName": "\u0644\u0628\u0646\u0627\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".lb",
+    "currencies": [
+      "Lebanese pound"
+    ],
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borderCountries": [
+      "ISR",
+      "SYR"
+    ]
+  },
+  {
+    "id": 79,
+    "flag": "https://flagcdn.com/pg.svg",
+    "internationalName": "Independent State of Papua New Guinea",
+    "population": "8947027",
+    "region": "Oceania",
+    "capital": "Port Moresby",
+    "nativeName": "Papua New Guinea",
+    "subRegion": "Melanesia",
+    "topLevelDomain": ".pg",
+    "currencies": [
+      "Papua New Guinean kina"
+    ],
+    "languages": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "borderCountries": [
+      "IDN"
+    ]
+  },
+  {
+    "id": 80,
+    "flag": "https://flagcdn.com/yt.svg",
+    "internationalName": "Department of Mayotte",
+    "population": "226915",
+    "region": "Africa",
+    "capital": "Mamoudzou",
+    "nativeName": "Mayotte",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".yt",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 81,
+    "flag": "https://flagcdn.com/do.svg",
+    "internationalName": "Dominican Republic",
+    "population": "10847904",
+    "region": "Americas",
+    "capital": "Santo Domingo",
+    "nativeName": "Rep\u00fablica Dominicana",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".do",
+    "currencies": [
+      "Dominican peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "HTI"
+    ]
+  },
+  {
+    "id": 82,
+    "flag": "https://flagcdn.com/nf.svg",
+    "internationalName": "Territory of Norfolk Island",
+    "population": "2302",
+    "region": "Oceania",
+    "capital": "Kingston",
+    "nativeName": "Norfolk Island",
+    "subRegion": "Australia and New Zealand",
+    "topLevelDomain": ".nf",
+    "currencies": [
+      "Australian dollar"
+    ],
+    "languages": [
+      "English",
+      "Norfuk"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 83,
+    "flag": "https://flagcdn.com/bv.svg",
+    "internationalName": "Bouvet Island",
+    "population": null,
+    "region": "Antarctic",
+    "capital": null,
+    "nativeName": "Bouvet\u00f8ya",
+    "subRegion": null,
+    "topLevelDomain": ".bv",
+    "currencies": [],
+    "languages": [
+      "Norwegian"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 84,
+    "flag": "https://flagcdn.com/qa.svg",
+    "internationalName": "State of Qatar",
+    "population": "2881060",
+    "region": "Asia",
+    "capital": "Doha",
+    "nativeName": "\u0642\u0637\u0631",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".qa",
+    "currencies": [
+      "Qatari riyal"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "SAU"
+    ]
+  },
+  {
+    "id": 85,
+    "flag": "https://flagcdn.com/mg.svg",
+    "internationalName": "Republic of Madagascar",
+    "population": "27691019",
+    "region": "Africa",
+    "capital": "Antananarivo",
+    "nativeName": "Madagascar",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".mg",
+    "currencies": [
+      "Malagasy ariary"
+    ],
+    "languages": [
+      "French",
+      "Malagasy"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 86,
+    "flag": "https://flagcdn.com/in.svg",
+    "internationalName": "Republic of India",
+    "population": "1380004385",
+    "region": "Asia",
+    "capital": "New Delhi",
+    "nativeName": "India",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".in",
+    "currencies": [
+      "Indian rupee"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "borderCountries": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ]
+  },
+  {
+    "id": 87,
+    "flag": "https://flagcdn.com/sy.svg",
+    "internationalName": "Syrian Arab Republic",
+    "population": "17500657",
+    "region": "Asia",
+    "capital": "Damascus",
+    "nativeName": "\u0633\u0648\u0631\u064a\u0627",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".sy",
+    "currencies": [
+      "Syrian pound"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ]
+  },
+  {
+    "id": 88,
+    "flag": "https://flagcdn.com/me.svg",
+    "internationalName": "Montenegro",
+    "population": "621718",
+    "region": "Europe",
+    "capital": "Podgorica",
+    "nativeName": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".me",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Montenegrin"
+    ],
+    "borderCountries": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ]
+  },
+  {
+    "id": 89,
+    "flag": "https://flagcdn.com/sz.svg",
+    "internationalName": "Kingdom of Eswatini",
+    "population": "1160164",
+    "region": "Africa",
+    "capital": "Mbabane",
+    "nativeName": "Eswatini",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".sz",
+    "currencies": [
+      "Swazi lilangeni",
+      "South African rand"
+    ],
+    "languages": [
+      "English",
+      "Swazi"
+    ],
+    "borderCountries": [
+      "MOZ",
+      "ZAF"
+    ]
+  },
+  {
+    "id": 90,
+    "flag": "https://flagcdn.com/py.svg",
+    "internationalName": "Republic of Paraguay",
+    "population": "7132530",
+    "region": "Americas",
+    "capital": "Asunci\u00f3n",
+    "nativeName": "Paragu\u00e1i",
+    "subRegion": "South America",
+    "topLevelDomain": ".py",
+    "currencies": [
+      "Paraguayan guaran\u00ed"
+    ],
+    "languages": [
+      "Guaran\u00ed",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ]
+  },
+  {
+    "id": 91,
+    "flag": "https://flagcdn.com/sv.svg",
+    "internationalName": "Republic of El Salvador",
+    "population": "6486201",
+    "region": "Americas",
+    "capital": "San Salvador",
+    "nativeName": "El Salvador",
+    "subRegion": "Central America",
+    "topLevelDomain": ".sv",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "GTM",
+      "HND"
+    ]
+  },
+  {
+    "id": 92,
+    "flag": "https://flagcdn.com/ua.svg",
+    "internationalName": "Ukraine",
+    "population": "44134693",
+    "region": "Europe",
+    "capital": "Kyiv",
+    "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "subRegion": "Eastern Europe",
+    "topLevelDomain": ".ua",
+    "currencies": [
+      "Ukrainian hryvnia"
+    ],
+    "languages": [
+      "Ukrainian"
+    ],
+    "borderCountries": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ]
+  },
+  {
+    "id": 93,
+    "flag": "https://flagcdn.com/im.svg",
+    "internationalName": "Isle of Man",
+    "population": "85032",
+    "region": "Europe",
+    "capital": "Douglas",
+    "nativeName": "Isle of Man",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".im",
+    "currencies": [
+      "British pound",
+      "Manx pound"
+    ],
+    "languages": [
+      "English",
+      "Manx"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 94,
+    "flag": "https://flagcdn.com/na.svg",
+    "internationalName": "Republic of Namibia",
+    "population": "2540916",
+    "region": "Africa",
+    "capital": "Windhoek",
+    "nativeName": "Namibi\u00eb",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".na",
+    "currencies": [
+      "Namibian dollar",
+      "South African rand"
+    ],
+    "languages": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "borderCountries": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ]
+  },
+  {
+    "id": 95,
+    "flag": "https://flagcdn.com/ae.svg",
+    "internationalName": "United Arab Emirates",
+    "population": "9890400",
+    "region": "Asia",
+    "capital": "Abu Dhabi",
+    "nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".ae",
+    "currencies": [
+      "United Arab Emirates dirham"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "OMN",
+      "SAU"
+    ]
+  },
+  {
+    "id": 96,
+    "flag": "https://flagcdn.com/bg.svg",
+    "internationalName": "Republic of Bulgaria",
+    "population": "6927288",
+    "region": "Europe",
+    "capital": "Sofia",
+    "nativeName": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".bg",
+    "currencies": [
+      "Bulgarian lev"
+    ],
+    "languages": [
+      "Bulgarian"
+    ],
+    "borderCountries": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ]
+  },
+  {
+    "id": 97,
+    "flag": "https://flagcdn.com/gl.svg",
+    "internationalName": "Greenland",
+    "population": "56367",
+    "region": "Americas",
+    "capital": "Nuuk",
+    "nativeName": "Kalaallit Nunaat",
+    "subRegion": "North America",
+    "topLevelDomain": ".gl",
+    "currencies": [
+      "krone"
+    ],
+    "languages": [
+      "Greenlandic"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 98,
+    "flag": "https://flagcdn.com/de.svg",
+    "internationalName": "Federal Republic of Germany",
+    "population": "83240525",
+    "region": "Europe",
+    "capital": "Berlin",
+    "nativeName": "Deutschland",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".de",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "German"
+    ],
+    "borderCountries": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ]
+  },
+  {
+    "id": 99,
+    "flag": "https://flagcdn.com/kh.svg",
+    "internationalName": "Kingdom of Cambodia",
+    "population": "16718971",
+    "region": "Asia",
+    "capital": "Phnom Penh",
+    "nativeName": "K\u00e2mp\u016dch\u00e9a",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".kh",
+    "currencies": [
+      "Cambodian riel",
+      "United States dollar"
+    ],
+    "languages": [
+      "Khmer"
+    ],
+    "borderCountries": [
+      "LAO",
+      "THA",
+      "VNM"
+    ]
+  },
+  {
+    "id": 100,
+    "flag": "https://flagcdn.com/iq.svg",
+    "internationalName": "Republic of Iraq",
+    "population": "40222503",
+    "region": "Asia",
+    "capital": "Baghdad",
+    "nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".iq",
+    "currencies": [
+      "Iraqi dinar"
+    ],
+    "languages": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ],
+    "borderCountries": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ]
+  },
+  {
+    "id": 101,
+    "flag": "https://flagcdn.com/tf.svg",
+    "internationalName": "Territory of the French Southern and Antarctic Lands",
+    "population": "400",
+    "region": "Antarctic",
+    "capital": "Port-aux-Fran\u00e7ais",
+    "nativeName": "Terres australes et antarctiques fran\u00e7aises",
+    "subRegion": null,
+    "topLevelDomain": ".tf",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 102,
+    "flag": "https://flagcdn.com/se.svg",
+    "internationalName": "Kingdom of Sweden",
+    "population": "10353442",
+    "region": "Europe",
+    "capital": "Stockholm",
+    "nativeName": "Sverige",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".se",
+    "currencies": [
+      "Swedish krona"
+    ],
+    "languages": [
+      "Swedish"
+    ],
+    "borderCountries": [
+      "FIN",
+      "NOR"
+    ]
+  },
+  {
+    "id": 103,
+    "flag": "https://flagcdn.com/cu.svg",
+    "internationalName": "Republic of Cuba",
+    "population": "11326616",
+    "region": "Americas",
+    "capital": "Havana",
+    "nativeName": "Cuba",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".cu",
+    "currencies": [
+      "Cuban convertible peso",
+      "Cuban peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 104,
+    "flag": "https://flagcdn.com/kg.svg",
+    "internationalName": "Kyrgyz Republic",
+    "population": "6591600",
+    "region": "Asia",
+    "capital": "Bishkek",
+    "nativeName": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+    "subRegion": "Central Asia",
+    "topLevelDomain": ".kg",
+    "currencies": [
+      "Kyrgyzstani som"
+    ],
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "borderCountries": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ]
+  },
+  {
+    "id": 105,
+    "flag": "https://flagcdn.com/ru.svg",
+    "internationalName": "Russian Federation",
+    "population": "144104080",
+    "region": "Europe",
+    "capital": "Moscow",
+    "nativeName": "\u0420\u043e\u0441\u0441\u0438\u044f",
+    "subRegion": "Eastern Europe",
+    "topLevelDomain": ".ru",
+    "currencies": [
+      "Russian ruble"
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "borderCountries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "id": 106,
+    "flag": "https://flagcdn.com/my.svg",
+    "internationalName": "Malaysia",
+    "population": "32365998",
+    "region": "Asia",
+    "capital": "Kuala Lumpur",
+    "nativeName": "Malaysia",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".my",
+    "currencies": [
+      "Malaysian ringgit"
+    ],
+    "languages": [
+      "English",
+      "Malay"
+    ],
+    "borderCountries": [
+      "BRN",
+      "IDN",
+      "THA"
+    ]
+  },
+  {
+    "id": 107,
+    "flag": "https://flagcdn.com/st.svg",
+    "internationalName": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "population": "219161",
+    "region": "Africa",
+    "capital": "S\u00e3o Tom\u00e9",
+    "nativeName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".st",
+    "currencies": [
+      "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 108,
+    "flag": "https://flagcdn.com/cy.svg",
+    "internationalName": "Republic of Cyprus",
+    "population": "1207361",
+    "region": "Europe",
+    "capital": "Nicosia",
+    "nativeName": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".cy",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 109,
+    "flag": "https://flagcdn.com/ca.svg",
+    "internationalName": "Canada",
+    "population": "38005238",
+    "region": "Americas",
+    "capital": "Ottawa",
+    "nativeName": "Canada",
+    "subRegion": "North America",
+    "topLevelDomain": ".ca",
+    "currencies": [
+      "Canadian dollar"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "borderCountries": [
+      "USA"
+    ]
+  },
+  {
+    "id": 110,
+    "flag": "https://flagcdn.com/mw.svg",
+    "internationalName": "Republic of Malawi",
+    "population": "19129955",
+    "region": "Africa",
+    "capital": "Lilongwe",
+    "nativeName": "Malawi",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".mw",
+    "currencies": [
+      "Malawian kwacha"
+    ],
+    "languages": [
+      "English",
+      "Chewa"
+    ],
+    "borderCountries": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ]
+  },
+  {
+    "id": 111,
+    "flag": "https://flagcdn.com/sa.svg",
+    "internationalName": "Kingdom of Saudi Arabia",
+    "population": "34813867",
+    "region": "Asia",
+    "capital": "Riyadh",
+    "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".sa",
+    "currencies": [
+      "Saudi riyal"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ]
+  },
+  {
+    "id": 112,
+    "flag": "https://flagcdn.com/ba.svg",
+    "internationalName": "Bosnia and Herzegovina",
+    "population": "3280815",
+    "region": "Europe",
+    "capital": "Sarajevo",
+    "nativeName": "Bosna i Hercegovina",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".ba",
+    "currencies": [
+      "Bosnia and Herzegovina convertible mark"
+    ],
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "borderCountries": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ]
+  },
+  {
+    "id": 113,
+    "flag": "https://flagcdn.com/et.svg",
+    "internationalName": "Federal Democratic Republic of Ethiopia",
+    "population": "114963583",
+    "region": "Africa",
+    "capital": "Addis Ababa",
+    "nativeName": "\u12a2\u1275\u12ee\u1335\u12eb",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".et",
+    "currencies": [
+      "Ethiopian birr"
+    ],
+    "languages": [
+      "Amharic"
+    ],
+    "borderCountries": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ]
+  },
+  {
+    "id": 114,
+    "flag": "https://flagcdn.com/es.svg",
+    "internationalName": "Kingdom of Spain",
+    "population": "47351567",
+    "region": "Europe",
+    "capital": "Madrid",
+    "nativeName": "Espa\u00f1a",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".es",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Spanish",
+      "Catalan",
+      "Basque",
+      "Galician"
+    ],
+    "borderCountries": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ]
+  },
+  {
+    "id": 115,
+    "flag": "https://flagcdn.com/si.svg",
+    "internationalName": "Republic of Slovenia",
+    "population": "2100126",
+    "region": "Europe",
+    "capital": "Ljubljana",
+    "nativeName": "Slovenija",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".si",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Slovene"
+    ],
+    "borderCountries": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ]
+  },
+  {
+    "id": 116,
+    "flag": "https://flagcdn.com/om.svg",
+    "internationalName": "Sultanate of Oman",
+    "population": "5106622",
+    "region": "Asia",
+    "capital": "Muscat",
+    "nativeName": "\u0639\u0645\u0627\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".om",
+    "currencies": [
+      "Omani rial"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ]
+  },
+  {
+    "id": 117,
+    "flag": "https://flagcdn.com/pm.svg",
+    "internationalName": "Saint Pierre and Miquelon",
+    "population": "6069",
+    "region": "Americas",
+    "capital": "Saint-Pierre",
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "subRegion": "North America",
+    "topLevelDomain": ".pm",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 118,
+    "flag": "https://flagcdn.com/mo.svg",
+    "internationalName": "Macao Special Administrative Region of the People's Republic of China",
+    "population": "649342",
+    "region": "Asia",
+    "capital": null,
+    "nativeName": "Macau",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".mo",
+    "currencies": [
+      "Macanese pataca"
+    ],
+    "languages": [
+      "Portuguese",
+      "Chinese"
+    ],
+    "borderCountries": [
+      "CHN"
+    ]
+  },
+  {
+    "id": 119,
+    "flag": "https://flagcdn.com/sm.svg",
+    "internationalName": "Republic of San Marino",
+    "population": "33938",
+    "region": "Europe",
+    "capital": "City of San Marino",
+    "nativeName": "San Marino",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".sm",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Italian"
+    ],
+    "borderCountries": [
+      "ITA"
+    ]
+  },
+  {
+    "id": 120,
+    "flag": "https://flagcdn.com/ls.svg",
+    "internationalName": "Kingdom of Lesotho",
+    "population": "2142252",
+    "region": "Africa",
+    "capital": "Maseru",
+    "nativeName": "Lesotho",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".ls",
+    "currencies": [
+      "Lesotho loti",
+      "South African rand"
+    ],
+    "languages": [
+      "English",
+      "Sotho"
+    ],
+    "borderCountries": [
+      "ZAF"
+    ]
+  },
+  {
+    "id": 121,
+    "flag": "https://flagcdn.com/mh.svg",
+    "internationalName": "Republic of the Marshall Islands",
+    "population": "59194",
+    "region": "Oceania",
+    "capital": "Majuro",
+    "nativeName": "Marshall Islands",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".mh",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English",
+      "Marshallese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 122,
+    "flag": "https://flagcdn.com/sx.svg",
+    "internationalName": "Sint Maarten",
+    "population": "40812",
+    "region": "Americas",
+    "capital": "Philipsburg",
+    "nativeName": "Sint Maarten",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".sx",
+    "currencies": [
+      "Netherlands Antillean guilder"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Dutch"
+    ],
+    "borderCountries": [
+      "MAF"
+    ]
+  },
+  {
+    "id": 123,
+    "flag": "https://flagcdn.com/is.svg",
+    "internationalName": "Iceland",
+    "population": "366425",
+    "region": "Europe",
+    "capital": "Reykjavik",
+    "nativeName": "\u00cdsland",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".is",
+    "currencies": [
+      "Icelandic kr\u00f3na"
+    ],
+    "languages": [
+      "Icelandic"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 124,
+    "flag": "https://flagcdn.com/lu.svg",
+    "internationalName": "Grand Duchy of Luxembourg",
+    "population": "632275",
+    "region": "Europe",
+    "capital": "Luxembourg",
+    "nativeName": "Luxemburg",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".lu",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "German",
+      "French",
+      "Luxembourgish"
+    ],
+    "borderCountries": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ]
+  },
+  {
+    "id": 125,
+    "flag": "https://flagcdn.com/ar.svg",
+    "internationalName": "Argentine Republic",
+    "population": "45376763",
+    "region": "Americas",
+    "capital": "Buenos Aires",
+    "nativeName": "Argentina",
+    "subRegion": "South America",
+    "topLevelDomain": ".ar",
+    "currencies": [
+      "Argentine peso"
+    ],
+    "languages": [
+      "Guaran\u00ed",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ]
+  },
+  {
+    "id": 126,
+    "flag": "https://flagcdn.com/tc.svg",
+    "internationalName": "Turks and Caicos Islands",
+    "population": "38718",
+    "region": "Americas",
+    "capital": "Cockburn Town",
+    "nativeName": "Turks and Caicos Islands",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".tc",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 127,
+    "flag": "https://flagcdn.com/nr.svg",
+    "internationalName": "Republic of Nauru",
+    "population": "10834",
+    "region": "Oceania",
+    "capital": "Yaren",
+    "nativeName": "Nauru",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".nr",
+    "currencies": [
+      "Australian dollar"
+    ],
+    "languages": [
+      "English",
+      "Nauru"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 128,
+    "flag": "https://flagcdn.com/cc.svg",
+    "internationalName": "Territory of the Cocos (Keeling) Islands",
+    "population": "544",
+    "region": "Oceania",
+    "capital": "West Island",
+    "nativeName": "Cocos (Keeling) Islands",
+    "subRegion": "Australia and New Zealand",
+    "topLevelDomain": ".cc",
+    "currencies": [
+      "Australian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 129,
+    "flag": "https://flagcdn.com/eh.svg",
+    "internationalName": "Sahrawi Arab Democratic Republic",
+    "population": "510713",
+    "region": "Africa",
+    "capital": "El Aai\u00fan",
+    "nativeName": "Western Sahara",
+    "subRegion": "Northern Africa",
+    "topLevelDomain": ".eh",
+    "currencies": [
+      "Algerian dinar",
+      "Moroccan dirham",
+      "Mauritanian ouguiya"
+    ],
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ]
+  },
+  {
+    "id": 130,
+    "flag": "https://flagcdn.com/dm.svg",
+    "internationalName": "Commonwealth of Dominica",
+    "population": "71991",
+    "region": "Americas",
+    "capital": "Roseau",
+    "nativeName": "Dominica",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".dm",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 131,
+    "flag": "https://flagcdn.com/cr.svg",
+    "internationalName": "Republic of Costa Rica",
+    "population": "5094114",
+    "region": "Americas",
+    "capital": "San Jos\u00e9",
+    "nativeName": "Costa Rica",
+    "subRegion": "Central America",
+    "topLevelDomain": ".cr",
+    "currencies": [
+      "Costa Rican col\u00f3n"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "NIC",
+      "PAN"
+    ]
+  },
+  {
+    "id": 132,
+    "flag": "https://flagcdn.com/au.svg",
+    "internationalName": "Commonwealth of Australia",
+    "population": "25687041",
+    "region": "Oceania",
+    "capital": "Canberra",
+    "nativeName": "Australia",
+    "subRegion": "Australia and New Zealand",
+    "topLevelDomain": ".au",
+    "currencies": [
+      "Australian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 133,
+    "flag": "https://flagcdn.com/th.svg",
+    "internationalName": "Kingdom of Thailand",
+    "population": "69799978",
+    "region": "Asia",
+    "capital": "Bangkok",
+    "nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".th",
+    "currencies": [
+      "Thai baht"
+    ],
+    "languages": [
+      "Thai"
+    ],
+    "borderCountries": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ]
+  },
+  {
+    "id": 134,
+    "flag": "https://flagcdn.com/ht.svg",
+    "internationalName": "Republic of Haiti",
+    "population": "11402533",
+    "region": "Americas",
+    "capital": "Port-au-Prince",
+    "nativeName": "Ha\u00efti",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".ht",
+    "currencies": [
+      "Haitian gourde"
+    ],
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ],
+    "borderCountries": [
+      "DOM"
+    ]
+  },
+  {
+    "id": 135,
+    "flag": "https://flagcdn.com/tv.svg",
+    "internationalName": "Tuvalu",
+    "population": "11792",
+    "region": "Oceania",
+    "capital": "Funafuti",
+    "nativeName": "Tuvalu",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".tv",
+    "currencies": [
+      "Australian dollar",
+      "Tuvaluan dollar"
+    ],
+    "languages": [
+      "English",
+      "Tuvaluan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 136,
+    "flag": "https://flagcdn.com/hn.svg",
+    "internationalName": "Republic of Honduras",
+    "population": "9904608",
+    "region": "Americas",
+    "capital": "Tegucigalpa",
+    "nativeName": "Honduras",
+    "subRegion": "Central America",
+    "topLevelDomain": ".hn",
+    "currencies": [
+      "Honduran lempira"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ]
+  },
+  {
+    "id": 137,
+    "flag": "https://flagcdn.com/gq.svg",
+    "internationalName": "Republic of Equatorial Guinea",
+    "population": "1402985",
+    "region": "Africa",
+    "capital": "Malabo",
+    "nativeName": "Guin\u00e9e \u00e9quatoriale",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".gq",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "CMR",
+      "GAB"
+    ]
+  },
+  {
+    "id": 138,
+    "flag": "https://flagcdn.com/lc.svg",
+    "internationalName": "Saint Lucia",
+    "population": "183629",
+    "region": "Americas",
+    "capital": "Castries",
+    "nativeName": "Saint Lucia",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".lc",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 139,
+    "flag": "https://flagcdn.com/pf.svg",
+    "internationalName": "French Polynesia",
+    "population": "280904",
+    "region": "Oceania",
+    "capital": "Papeet\u0113",
+    "nativeName": "Polyn\u00e9sie fran\u00e7aise",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".pf",
+    "currencies": [
+      "CFP franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 140,
+    "flag": "https://flagcdn.com/by.svg",
+    "internationalName": "Republic of Belarus",
+    "population": "9398861",
+    "region": "Europe",
+    "capital": "Minsk",
+    "nativeName": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
+    "subRegion": "Eastern Europe",
+    "topLevelDomain": ".by",
+    "currencies": [
+      "Belarusian ruble"
+    ],
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "borderCountries": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "id": 141,
+    "flag": "https://flagcdn.com/lv.svg",
+    "internationalName": "Republic of Latvia",
+    "population": "1901548",
+    "region": "Europe",
+    "capital": "Riga",
+    "nativeName": "Latvija",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".lv",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Latvian"
+    ],
+    "borderCountries": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ]
+  },
+  {
+    "id": 142,
+    "flag": "https://flagcdn.com/pw.svg",
+    "internationalName": "Republic of Palau",
+    "population": "18092",
+    "region": "Oceania",
+    "capital": "Ngerulmud",
+    "nativeName": "Palau",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".pw",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English",
+      "Palauan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 143,
+    "flag": "https://flagcdn.com/gp.svg",
+    "internationalName": "Guadeloupe",
+    "population": "400132",
+    "region": "Americas",
+    "capital": "Basse-Terre",
+    "nativeName": "Guadeloupe",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".gp",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 144,
+    "flag": "https://flagcdn.com/ph.svg",
+    "internationalName": "Republic of the Philippines",
+    "population": "109581085",
+    "region": "Asia",
+    "capital": "Manila",
+    "nativeName": "Philippines",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".ph",
+    "currencies": [
+      "Philippine peso"
+    ],
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 145,
+    "flag": "https://flagcdn.com/gi.svg",
+    "internationalName": "Gibraltar",
+    "population": "33691",
+    "region": "Europe",
+    "capital": "Gibraltar",
+    "nativeName": "Gibraltar",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".gi",
+    "currencies": [
+      "Gibraltar pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "ESP"
+    ]
+  },
+  {
+    "id": 146,
+    "flag": "https://flagcdn.com/dk.svg",
+    "internationalName": "Kingdom of Denmark",
+    "population": "5831404",
+    "region": "Europe",
+    "capital": "Copenhagen",
+    "nativeName": "Danmark",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".dk",
+    "currencies": [
+      "Danish krone"
+    ],
+    "languages": [
+      "Danish"
+    ],
+    "borderCountries": [
+      "DEU"
+    ]
+  },
+  {
+    "id": 147,
+    "flag": "https://flagcdn.com/cm.svg",
+    "internationalName": "Republic of Cameroon",
+    "population": "26545864",
+    "region": "Africa",
+    "capital": "Yaound\u00e9",
+    "nativeName": "Cameroon",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".cm",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "borderCountries": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ]
+  },
+  {
+    "id": 148,
+    "flag": "https://flagcdn.com/gn.svg",
+    "internationalName": "Republic of Guinea",
+    "population": "13132792",
+    "region": "Africa",
+    "capital": "Conakry",
+    "nativeName": "Guin\u00e9e",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".gn",
+    "currencies": [
+      "Guinean franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ]
+  },
+  {
+    "id": 149,
+    "flag": "https://flagcdn.com/bh.svg",
+    "internationalName": "Kingdom of Bahrain",
+    "population": "1701583",
+    "region": "Asia",
+    "capital": "Manama",
+    "nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".bh",
+    "currencies": [
+      "Bahraini dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 150,
+    "flag": "https://flagcdn.com/sr.svg",
+    "internationalName": "Republic of Suriname",
+    "population": "586634",
+    "region": "Americas",
+    "capital": "Paramaribo",
+    "nativeName": "Suriname",
+    "subRegion": "South America",
+    "topLevelDomain": ".sr",
+    "currencies": [
+      "Surinamese dollar"
+    ],
+    "languages": [
+      "Dutch"
+    ],
+    "borderCountries": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ]
+  },
+  {
+    "id": 151,
+    "flag": "https://flagcdn.com/cd.svg",
+    "internationalName": "Democratic Republic of the Congo",
+    "population": "108407721",
+    "region": "Africa",
+    "capital": "Kinshasa",
+    "nativeName": "RD Congo",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".cd",
+    "currencies": [
+      "Congolese franc"
+    ],
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "borderCountries": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ]
+  },
+  {
+    "id": 152,
+    "flag": "https://flagcdn.com/so.svg",
+    "internationalName": "Federal Republic of Somalia",
+    "population": "15893219",
+    "region": "Africa",
+    "capital": "Mogadishu",
+    "nativeName": "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".so",
+    "currencies": [
+      "Somali shilling"
+    ],
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "borderCountries": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ]
+  },
+  {
+    "id": 153,
+    "flag": "https://flagcdn.com/cz.svg",
+    "internationalName": "Czech Republic",
+    "population": "10698896",
+    "region": "Europe",
+    "capital": "Prague",
+    "nativeName": "\u010cesko",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".cz",
+    "currencies": [
+      "Czech koruna"
+    ],
+    "languages": [
+      "Czech",
+      "Slovak"
+    ],
+    "borderCountries": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ]
+  },
+  {
+    "id": 154,
+    "flag": "https://flagcdn.com/nc.svg",
+    "internationalName": "New Caledonia",
+    "population": "271960",
+    "region": "Oceania",
+    "capital": "Noum\u00e9a",
+    "nativeName": "Nouvelle-Cal\u00e9donie",
+    "subRegion": "Melanesia",
+    "topLevelDomain": ".nc",
+    "currencies": [
+      "CFP franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 155,
+    "flag": "https://flagcdn.com/vu.svg",
+    "internationalName": "Republic of Vanuatu",
+    "population": "307150",
+    "region": "Oceania",
+    "capital": "Port Vila",
+    "nativeName": "Vanuatu",
+    "subRegion": "Melanesia",
+    "topLevelDomain": ".vu",
+    "currencies": [
+      "Vanuatu vatu"
+    ],
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 156,
+    "flag": "https://flagcdn.com/sh.svg",
+    "internationalName": "Saint Helena, Ascension and Tristan da Cunha",
+    "population": "53192",
+    "region": "Africa",
+    "capital": "Jamestown",
+    "nativeName": "Saint Helena, Ascension and Tristan da Cunha",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".sh",
+    "currencies": [
+      "Pound sterling",
+      "Saint Helena pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 157,
+    "flag": "https://flagcdn.com/tg.svg",
+    "internationalName": "Togolese Republic",
+    "population": "8278737",
+    "region": "Africa",
+    "capital": "Lom\u00e9",
+    "nativeName": "Togo",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".tg",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ]
+  },
+  {
+    "id": 158,
+    "flag": "https://flagcdn.com/vg.svg",
+    "internationalName": "Virgin Islands",
+    "population": "30237",
+    "region": "Americas",
+    "capital": "Road Town",
+    "nativeName": "British Virgin Islands",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".vg",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 159,
+    "flag": "https://flagcdn.com/ke.svg",
+    "internationalName": "Republic of Kenya",
+    "population": "53771300",
+    "region": "Africa",
+    "capital": "Nairobi",
+    "nativeName": "Kenya",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".ke",
+    "currencies": [
+      "Kenyan shilling"
+    ],
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borderCountries": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ]
+  },
+  {
+    "id": 160,
+    "flag": "https://flagcdn.com/nu.svg",
+    "internationalName": "Niue",
+    "population": "1470",
+    "region": "Oceania",
+    "capital": "Alofi",
+    "nativeName": "Niue",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".nu",
+    "currencies": [
+      "New Zealand dollar"
+    ],
+    "languages": [
+      "English",
+      "Niuean"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 161,
+    "flag": "https://flagcdn.com/hm.svg",
+    "internationalName": "Heard Island and McDonald Islands",
+    "population": null,
+    "region": "Antarctic",
+    "capital": null,
+    "nativeName": "Heard Island and McDonald Islands",
+    "subRegion": null,
+    "topLevelDomain": ".hm",
+    "currencies": [],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 162,
+    "flag": "https://flagcdn.com/rw.svg",
+    "internationalName": "Republic of Rwanda",
+    "population": "12952209",
+    "region": "Africa",
+    "capital": "Kigali",
+    "nativeName": "Rwanda",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".rw",
+    "currencies": [
+      "Rwandan franc"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "borderCountries": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ]
+  },
+  {
+    "id": 163,
+    "flag": "https://flagcdn.com/ee.svg",
+    "internationalName": "Republic of Estonia",
+    "population": "1331057",
+    "region": "Europe",
+    "capital": "Tallinn",
+    "nativeName": "Eesti",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".ee",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Estonian"
+    ],
+    "borderCountries": [
+      "LVA",
+      "RUS"
+    ]
+  },
+  {
+    "id": 164,
+    "flag": "https://flagcdn.com/ro.svg",
+    "internationalName": "Romania",
+    "population": "19286123",
+    "region": "Europe",
+    "capital": "Bucharest",
+    "nativeName": "Rom\u00e2nia",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".ro",
+    "currencies": [
+      "Romanian leu"
+    ],
+    "languages": [
+      "Romanian"
+    ],
+    "borderCountries": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ]
+  },
+  {
+    "id": 165,
+    "flag": "https://flagcdn.com/tt.svg",
+    "internationalName": "Republic of Trinidad and Tobago",
+    "population": "1399491",
+    "region": "Americas",
+    "capital": "Port of Spain",
+    "nativeName": "Trinidad and Tobago",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".tt",
+    "currencies": [
+      "Trinidad and Tobago dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 166,
+    "flag": "https://flagcdn.com/gy.svg",
+    "internationalName": "Co-operative Republic of Guyana",
+    "population": "786559",
+    "region": "Americas",
+    "capital": "Georgetown",
+    "nativeName": "Guyana",
+    "subRegion": "South America",
+    "topLevelDomain": ".gy",
+    "currencies": [
+      "Guyanese dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ]
+  },
+  {
+    "id": 167,
+    "flag": "https://flagcdn.com/tl.svg",
+    "internationalName": "Democratic Republic of Timor-Leste",
+    "population": "1318442",
+    "region": "Asia",
+    "capital": "Dili",
+    "nativeName": "Timor-Leste",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".tl",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "borderCountries": [
+      "IDN"
+    ]
+  },
+  {
+    "id": 168,
+    "flag": "https://flagcdn.com/vn.svg",
+    "internationalName": "Socialist Republic of Vietnam",
+    "population": "97338583",
+    "region": "Asia",
+    "capital": "Hanoi",
+    "nativeName": "Vi\u1ec7t Nam",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".vn",
+    "currencies": [
+      "Vietnamese \u0111\u1ed3ng"
+    ],
+    "languages": [
+      "Vietnamese"
+    ],
+    "borderCountries": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ]
+  },
+  {
+    "id": 169,
+    "flag": "https://flagcdn.com/uy.svg",
+    "internationalName": "Oriental Republic of Uruguay",
+    "population": "3473727",
+    "region": "Americas",
+    "capital": "Montevideo",
+    "nativeName": "Uruguay",
+    "subRegion": "South America",
+    "topLevelDomain": ".uy",
+    "currencies": [
+      "Uruguayan peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "ARG",
+      "BRA"
+    ]
+  },
+  {
+    "id": 170,
+    "flag": "https://flagcdn.com/va.svg",
+    "internationalName": "Vatican City State",
+    "population": "451",
+    "region": "Europe",
+    "capital": "Vatican City",
+    "nativeName": "Vaticano",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".va",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "borderCountries": [
+      "ITA"
+    ]
+  },
+  {
+    "id": 171,
+    "flag": "https://flagcdn.com/hk.svg",
+    "internationalName": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "population": "7500700",
+    "region": "Asia",
+    "capital": "City of Victoria",
+    "nativeName": "Hong Kong",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".hk",
+    "currencies": [
+      "Hong Kong dollar"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "borderCountries": [
+      "CHN"
+    ]
+  },
+  {
+    "id": 172,
+    "flag": "https://flagcdn.com/at.svg",
+    "internationalName": "Republic of Austria",
+    "population": "8917205",
+    "region": "Europe",
+    "capital": "Vienna",
+    "nativeName": "\u00d6sterreich",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".at",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "German"
+    ],
+    "borderCountries": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ]
+  },
+  {
+    "id": 173,
+    "flag": "https://flagcdn.com/ag.svg",
+    "internationalName": "Antigua and Barbuda",
+    "population": "97928",
+    "region": "Americas",
+    "capital": "Saint John's",
+    "nativeName": "Antigua and Barbuda",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".ag",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 174,
+    "flag": "https://flagcdn.com/tm.svg",
+    "internationalName": "Turkmenistan",
+    "population": "6031187",
+    "region": "Asia",
+    "capital": "Ashgabat",
+    "nativeName": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+    "subRegion": "Central Asia",
+    "topLevelDomain": ".tm",
+    "currencies": [
+      "Turkmenistan manat"
+    ],
+    "languages": [
+      "Russian",
+      "Turkmen"
+    ],
+    "borderCountries": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ]
+  },
+  {
+    "id": 175,
+    "flag": "https://flagcdn.com/mz.svg",
+    "internationalName": "Republic of Mozambique",
+    "population": "31255435",
+    "region": "Africa",
+    "capital": "Maputo",
+    "nativeName": "Mo\u00e7ambique",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".mz",
+    "currencies": [
+      "Mozambican metical"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ]
+  },
+  {
+    "id": 176,
+    "flag": "https://flagcdn.com/pa.svg",
+    "internationalName": "Republic of Panama",
+    "population": "4314768",
+    "region": "Americas",
+    "capital": "Panama City",
+    "nativeName": "Panam\u00e1",
+    "subRegion": "Central America",
+    "topLevelDomain": ".pa",
+    "currencies": [
+      "Panamanian balboa",
+      "United States dollar"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "COL",
+      "CRI"
+    ]
+  },
+  {
+    "id": 177,
+    "flag": "https://flagcdn.com/fm.svg",
+    "internationalName": "Federated States of Micronesia",
+    "population": "115021",
+    "region": "Oceania",
+    "capital": "Palikir",
+    "nativeName": "Micronesia",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".fm",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 178,
+    "flag": "https://flagcdn.com/ie.svg",
+    "internationalName": "Republic of Ireland",
+    "population": "4994724",
+    "region": "Europe",
+    "capital": "Dublin",
+    "nativeName": "Ireland",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".ie",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "borderCountries": [
+      "GBR"
+    ]
+  },
+  {
+    "id": 179,
+    "flag": "https://flagcdn.com/cw.svg",
+    "internationalName": "Country of Cura\u00e7ao",
+    "population": "155014",
+    "region": "Americas",
+    "capital": "Willemstad",
+    "nativeName": "Cura\u00e7ao",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".cw",
+    "currencies": [
+      "Netherlands Antillean guilder"
+    ],
+    "languages": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 180,
+    "flag": "https://flagcdn.com/gf.svg",
+    "internationalName": "Guiana",
+    "population": "254541",
+    "region": "Americas",
+    "capital": "Cayenne",
+    "nativeName": "Guyane fran\u00e7aise",
+    "subRegion": "South America",
+    "topLevelDomain": ".gf",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "BRA",
+      "SUR"
+    ]
+  },
+  {
+    "id": 181,
+    "flag": "https://flagcdn.com/no.svg",
+    "internationalName": "Kingdom of Norway",
+    "population": "5379475",
+    "region": "Europe",
+    "capital": "Oslo",
+    "nativeName": "Noreg",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".no",
+    "currencies": [
+      "Norwegian krone"
+    ],
+    "languages": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokm\u00e5l",
+      "Sami"
+    ],
+    "borderCountries": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ]
+  },
+  {
+    "id": 182,
+    "flag": "https://flagcdn.com/ax.svg",
+    "internationalName": "\u00c5land Islands",
+    "population": "29458",
+    "region": "Europe",
+    "capital": "Mariehamn",
+    "nativeName": "\u00c5land",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".ax",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Swedish"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 183,
+    "flag": "https://flagcdn.com/cf.svg",
+    "internationalName": "Central African Republic",
+    "population": "4829764",
+    "region": "Africa",
+    "capital": "Bangui",
+    "nativeName": "R\u00e9publique centrafricaine",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".cf",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "borderCountries": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ]
+  },
+  {
+    "id": 184,
+    "flag": "https://flagcdn.com/bf.svg",
+    "internationalName": "Burkina Faso",
+    "population": "20903278",
+    "region": "Africa",
+    "capital": "Ouagadougou",
+    "nativeName": "Burkina Faso",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".bf",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ]
+  },
+  {
+    "id": 185,
+    "flag": "https://flagcdn.com/er.svg",
+    "internationalName": "State of Eritrea",
+    "population": "5352000",
+    "region": "Africa",
+    "capital": "Asmara",
+    "nativeName": "\u0625\u0631\u062a\u0631\u064a\u0627\u200e",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".er",
+    "currencies": [
+      "Eritrean nakfa"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "borderCountries": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ]
+  },
+  {
+    "id": 186,
+    "flag": "https://flagcdn.com/tz.svg",
+    "internationalName": "United Republic of Tanzania",
+    "population": "59734213",
+    "region": "Africa",
+    "capital": "Dodoma",
+    "nativeName": "Tanzania",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".tz",
+    "currencies": [
+      "Tanzanian shilling"
+    ],
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borderCountries": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ]
+  },
+  {
+    "id": 187,
+    "flag": "https://flagcdn.com/kr.svg",
+    "internationalName": "Republic of Korea",
+    "population": "51780579",
+    "region": "Asia",
+    "capital": "Seoul",
+    "nativeName": "\ud55c\uad6d",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".kr",
+    "currencies": [
+      "South Korean won"
+    ],
+    "languages": [
+      "Korean"
+    ],
+    "borderCountries": [
+      "PRK"
+    ]
+  },
+  {
+    "id": 188,
+    "flag": "https://flagcdn.com/jo.svg",
+    "internationalName": "Hashemite Kingdom of Jordan",
+    "population": "10203140",
+    "region": "Asia",
+    "capital": "Amman",
+    "nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".jo",
+    "currencies": [
+      "Jordanian dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ]
+  },
+  {
+    "id": 189,
+    "flag": "https://flagcdn.com/mr.svg",
+    "internationalName": "Islamic Republic of Mauritania",
+    "population": "4649660",
+    "region": "Africa",
+    "capital": "Nouakchott",
+    "nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".mr",
+    "currencies": [
+      "Mauritanian ouguiya"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ]
+  },
+  {
+    "id": 190,
+    "flag": "https://flagcdn.com/lt.svg",
+    "internationalName": "Republic of Lithuania",
+    "population": "2794700",
+    "region": "Europe",
+    "capital": "Vilnius",
+    "nativeName": "Lietuva",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".lt",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Lithuanian"
+    ],
+    "borderCountries": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ]
+  },
+  {
+    "id": 191,
+    "flag": "https://flagcdn.com/um.svg",
+    "internationalName": "United States Minor Outlying Islands",
+    "population": "300",
+    "region": "Americas",
+    "capital": "Washington DC",
+    "nativeName": "United States Minor Outlying Islands",
+    "subRegion": "North America",
+    "topLevelDomain": ".us",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 192,
+    "flag": "https://flagcdn.com/sk.svg",
+    "internationalName": "Slovak Republic",
+    "population": "5458827",
+    "region": "Europe",
+    "capital": "Bratislava",
+    "nativeName": "Slovensko",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".sk",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Slovak"
+    ],
+    "borderCountries": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "id": 193,
+    "flag": "https://flagcdn.com/ao.svg",
+    "internationalName": "Republic of Angola",
+    "population": "32866268",
+    "region": "Africa",
+    "capital": "Luanda",
+    "nativeName": "Angola",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".ao",
+    "currencies": [
+      "Angolan kwanza"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ]
+  },
+  {
+    "id": 194,
+    "flag": "https://flagcdn.com/kz.svg",
+    "internationalName": "Republic of Kazakhstan",
+    "population": "18754440",
+    "region": "Asia",
+    "capital": "Nur-Sultan",
+    "nativeName": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "subRegion": "Central Asia",
+    "topLevelDomain": ".kz",
+    "currencies": [
+      "Kazakhstani tenge"
+    ],
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "borderCountries": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ]
+  },
+  {
+    "id": 195,
+    "flag": "https://flagcdn.com/md.svg",
+    "internationalName": "Republic of Moldova",
+    "population": "2617820",
+    "region": "Europe",
+    "capital": "Chi\u0219in\u0103u",
+    "nativeName": "Moldova",
+    "subRegion": "Eastern Europe",
+    "topLevelDomain": ".md",
+    "currencies": [
+      "Moldovan leu"
+    ],
+    "languages": [
+      "Romanian"
+    ],
+    "borderCountries": [
+      "ROU",
+      "UKR"
+    ]
+  },
+  {
+    "id": 196,
+    "flag": "https://flagcdn.com/ml.svg",
+    "internationalName": "Republic of Mali",
+    "population": "20250834",
+    "region": "Africa",
+    "capital": "Bamako",
+    "nativeName": "Mali",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".ml",
+    "currencies": [
+      "West African CFA franc"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ]
+  },
+  {
+    "id": 197,
+    "flag": "https://flagcdn.com/fk.svg",
+    "internationalName": "Falkland Islands",
+    "population": "2563",
+    "region": "Americas",
+    "capital": "Stanley",
+    "nativeName": "Falkland Islands",
+    "subRegion": "South America",
+    "topLevelDomain": ".fk",
+    "currencies": [
+      "Falkland Islands pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 198,
+    "flag": "https://flagcdn.com/am.svg",
+    "internationalName": "Republic of Armenia",
+    "population": "2963234",
+    "region": "Asia",
+    "capital": "Yerevan",
+    "nativeName": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".am",
+    "currencies": [
+      "Armenian dram"
+    ],
+    "languages": [
+      "Armenian"
+    ],
+    "borderCountries": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ]
+  },
+  {
+    "id": 199,
+    "flag": "https://flagcdn.com/ws.svg",
+    "internationalName": "Independent State of Samoa",
+    "population": "198410",
+    "region": "Oceania",
+    "capital": "Apia",
+    "nativeName": "Samoa",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".ws",
+    "currencies": [
+      "Samoan t\u0101l\u0101"
+    ],
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 200,
+    "flag": "https://flagcdn.com/je.svg",
+    "internationalName": "Bailiwick of Jersey",
+    "population": "100800",
+    "region": "Europe",
+    "capital": "Saint Helier",
+    "nativeName": "Jersey",
+    "subRegion": "Northern Europe",
+    "topLevelDomain": ".je",
+    "currencies": [
+      "British pound",
+      "Jersey pound"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "J\u00e8rriais"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 201,
+    "flag": "https://flagcdn.com/jp.svg",
+    "internationalName": "Japan",
+    "population": "125836021",
+    "region": "Asia",
+    "capital": "Tokyo",
+    "nativeName": "\u65e5\u672c",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".jp",
+    "currencies": [
+      "Japanese yen"
+    ],
+    "languages": [
+      "Japanese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 202,
+    "flag": "https://flagcdn.com/bo.svg",
+    "internationalName": "Plurinational State of Bolivia",
+    "population": "11673029",
+    "region": "Americas",
+    "capital": "Sucre",
+    "nativeName": "Wuliwya",
+    "subRegion": "South America",
+    "topLevelDomain": ".bo",
+    "currencies": [
+      "Bolivian boliviano"
+    ],
+    "languages": [
+      "Aymara",
+      "Guaran\u00ed",
+      "Quechua",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ]
+  },
+  {
+    "id": 203,
+    "flag": "https://flagcdn.com/cl.svg",
+    "internationalName": "Republic of Chile",
+    "population": "19116209",
+    "region": "Americas",
+    "capital": "Santiago",
+    "nativeName": "Chile",
+    "subRegion": "South America",
+    "topLevelDomain": ".cl",
+    "currencies": [
+      "Chilean peso"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "ARG",
+      "BOL",
+      "PER"
+    ]
+  },
+  {
+    "id": 204,
+    "flag": "https://flagcdn.com/us.svg",
+    "internationalName": "United States of America",
+    "population": "329484123",
+    "region": "Americas",
+    "capital": "Washington, D.C.",
+    "nativeName": "United States",
+    "subRegion": "North America",
+    "topLevelDomain": ".us",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "CAN",
+      "MEX"
+    ]
+  },
+  {
+    "id": 205,
+    "flag": "https://flagcdn.com/vc.svg",
+    "internationalName": "Saint Vincent and the Grenadines",
+    "population": "110947",
+    "region": "Americas",
+    "capital": "Kingstown",
+    "nativeName": "Saint Vincent and the Grenadines",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".vc",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 206,
+    "flag": "https://flagcdn.com/bm.svg",
+    "internationalName": "Bermuda",
+    "population": "63903",
+    "region": "Americas",
+    "capital": "Hamilton",
+    "nativeName": "Bermuda",
+    "subRegion": "North America",
+    "topLevelDomain": ".bm",
+    "currencies": [
+      "Bermudian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 207,
+    "flag": "https://flagcdn.com/sc.svg",
+    "internationalName": "Republic of Seychelles",
+    "population": "98462",
+    "region": "Africa",
+    "capital": "Victoria",
+    "nativeName": "Sesel",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".sc",
+    "currencies": [
+      "Seychellois rupee"
+    ],
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 208,
+    "flag": "https://flagcdn.com/io.svg",
+    "internationalName": "British Indian Ocean Territory",
+    "population": "3000",
+    "region": "Africa",
+    "capital": "Diego Garcia",
+    "nativeName": "British Indian Ocean Territory",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".io",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 209,
+    "flag": "https://flagcdn.com/gt.svg",
+    "internationalName": "Republic of Guatemala",
+    "population": "16858333",
+    "region": "Americas",
+    "capital": "Guatemala City",
+    "nativeName": "Guatemala",
+    "subRegion": "Central America",
+    "topLevelDomain": ".gt",
+    "currencies": [
+      "Guatemalan quetzal"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ]
+  },
+  {
+    "id": 210,
+    "flag": "https://flagcdn.com/ec.svg",
+    "internationalName": "Republic of Ecuador",
+    "population": "17643060",
+    "region": "Americas",
+    "capital": "Quito",
+    "nativeName": "Ecuador",
+    "subRegion": "South America",
+    "topLevelDomain": ".ec",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "COL",
+      "PER"
+    ]
+  },
+  {
+    "id": 211,
+    "flag": "https://flagcdn.com/mq.svg",
+    "internationalName": "Martinique",
+    "population": "378243",
+    "region": "Americas",
+    "capital": "Fort-de-France",
+    "nativeName": "Martinique",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".mq",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 212,
+    "flag": "https://flagcdn.com/tj.svg",
+    "internationalName": "Republic of Tajikistan",
+    "population": "9537642",
+    "region": "Asia",
+    "capital": "Dushanbe",
+    "nativeName": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+    "subRegion": "Central Asia",
+    "topLevelDomain": ".tj",
+    "currencies": [
+      "Tajikistani somoni"
+    ],
+    "languages": [
+      "Russian",
+      "Tajik"
+    ],
+    "borderCountries": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ]
+  },
+  {
+    "id": 213,
+    "flag": "https://flagcdn.com/mt.svg",
+    "internationalName": "Republic of Malta",
+    "population": "525285",
+    "region": "Europe",
+    "capital": "Valletta",
+    "nativeName": "Malta",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".mt",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "English",
+      "Maltese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 214,
+    "flag": "https://flagcdn.com/gm.svg",
+    "internationalName": "Republic of the Gambia",
+    "population": "2416664",
+    "region": "Africa",
+    "capital": "Banjul",
+    "nativeName": "Gambia",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".gm",
+    "currencies": [
+      "dalasi"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "SEN"
+    ]
+  },
+  {
+    "id": 215,
+    "flag": "https://flagcdn.com/ng.svg",
+    "internationalName": "Federal Republic of Nigeria",
+    "population": "206139587",
+    "region": "Africa",
+    "capital": "Abuja",
+    "nativeName": "Nigeria",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".ng",
+    "currencies": [
+      "Nigerian naira"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ]
+  },
+  {
+    "id": 216,
+    "flag": "https://flagcdn.com/bs.svg",
+    "internationalName": "Commonwealth of the Bahamas",
+    "population": "393248",
+    "region": "Americas",
+    "capital": "Nassau",
+    "nativeName": "Bahamas",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".bs",
+    "currencies": [
+      "Bahamian dollar",
+      "United States dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 217,
+    "flag": "https://flagcdn.com/xk.svg",
+    "internationalName": "Republic of Kosovo",
+    "population": "1775378",
+    "region": "Europe",
+    "capital": "Pristina",
+    "nativeName": "Kosova",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": null,
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Albanian",
+      "Serbian"
+    ],
+    "borderCountries": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ]
+  },
+  {
+    "id": 218,
+    "flag": "https://flagcdn.com/kw.svg",
+    "internationalName": "State of Kuwait",
+    "population": "4270563",
+    "region": "Asia",
+    "capital": "Kuwait City",
+    "nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".kw",
+    "currencies": [
+      "Kuwaiti dinar"
+    ],
+    "languages": [
+      "Arabic"
+    ],
+    "borderCountries": [
+      "IRQ",
+      "SAU"
+    ]
+  },
+  {
+    "id": 219,
+    "flag": "https://flagcdn.com/mv.svg",
+    "internationalName": "Republic of the Maldives",
+    "population": "540542",
+    "region": "Asia",
+    "capital": "Mal\u00e9",
+    "nativeName": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".mv",
+    "currencies": [
+      "Maldivian rufiyaa"
+    ],
+    "languages": [
+      "Maldivian"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 220,
+    "flag": "https://flagcdn.com/ss.svg",
+    "internationalName": "Republic of South Sudan",
+    "population": "11193729",
+    "region": "Africa",
+    "capital": "Juba",
+    "nativeName": "South Sudan",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".ss",
+    "currencies": [
+      "South Sudanese pound"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ]
+  },
+  {
+    "id": 221,
+    "flag": "https://flagcdn.com/ir.svg",
+    "internationalName": "Islamic Republic of Iran",
+    "population": "83992953",
+    "region": "Asia",
+    "capital": "Tehran",
+    "nativeName": "\u0627\u06cc\u0631\u0627\u0646",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".ir",
+    "currencies": [
+      "Iranian rial"
+    ],
+    "languages": [
+      "Persian (Farsi)"
+    ],
+    "borderCountries": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ]
+  },
+  {
+    "id": 222,
+    "flag": "https://flagcdn.com/al.svg",
+    "internationalName": "Republic of Albania",
+    "population": "2837743",
+    "region": "Europe",
+    "capital": "Tirana",
+    "nativeName": "Shqip\u00ebria",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".al",
+    "currencies": [
+      "Albanian lek"
+    ],
+    "languages": [
+      "Albanian"
+    ],
+    "borderCountries": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ]
+  },
+  {
+    "id": 223,
+    "flag": "https://flagcdn.com/br.svg",
+    "internationalName": "Federative Republic of Brazil",
+    "population": "212559409",
+    "region": "Americas",
+    "capital": "Bras\u00edlia",
+    "nativeName": "Brasil",
+    "subRegion": "South America",
+    "topLevelDomain": ".br",
+    "currencies": [
+      "Brazilian real"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ]
+  },
+  {
+    "id": 224,
+    "flag": "https://flagcdn.com/rs.svg",
+    "internationalName": "Republic of Serbia",
+    "population": "6908224",
+    "region": "Europe",
+    "capital": "Belgrade",
+    "nativeName": "\u0421\u0440\u0431\u0438\u0458\u0430",
+    "subRegion": "Southeast Europe",
+    "topLevelDomain": ".rs",
+    "currencies": [
+      "Serbian dinar"
+    ],
+    "languages": [
+      "Serbian"
+    ],
+    "borderCountries": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "UNK",
+      "MKD",
+      "MNE",
+      "ROU"
+    ]
+  },
+  {
+    "id": 225,
+    "flag": "https://flagcdn.com/bz.svg",
+    "internationalName": "Belize",
+    "population": "397621",
+    "region": "Americas",
+    "capital": "Belmopan",
+    "nativeName": "Belize",
+    "subRegion": "Central America",
+    "topLevelDomain": ".bz",
+    "currencies": [
+      "Belize dollar"
+    ],
+    "languages": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ],
+    "borderCountries": [
+      "GTM",
+      "MEX"
+    ]
+  },
+  {
+    "id": 226,
+    "flag": "https://flagcdn.com/mm.svg",
+    "internationalName": "Republic of the Union of Myanmar",
+    "population": "54409794",
+    "region": "Asia",
+    "capital": "Naypyidaw",
+    "nativeName": "\u1019\u103c\u1014\u103a\u1019\u102c",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".mm",
+    "currencies": [
+      "Burmese kyat"
+    ],
+    "languages": [
+      "Burmese"
+    ],
+    "borderCountries": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ]
+  },
+  {
+    "id": 227,
+    "flag": "https://flagcdn.com/bt.svg",
+    "internationalName": "Kingdom of Bhutan",
+    "population": "771612",
+    "region": "Asia",
+    "capital": "Thimphu",
+    "nativeName": "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0b",
+    "subRegion": "Southern Asia",
+    "topLevelDomain": ".bt",
+    "currencies": [
+      "Bhutanese ngultrum",
+      "Indian rupee"
+    ],
+    "languages": [
+      "Dzongkha"
+    ],
+    "borderCountries": [
+      "CHN",
+      "IND"
+    ]
+  },
+  {
+    "id": 228,
+    "flag": "https://flagcdn.com/ve.svg",
+    "internationalName": "Bolivarian Republic of Venezuela",
+    "population": "28435943",
+    "region": "Americas",
+    "capital": "Caracas",
+    "nativeName": "Venezuela",
+    "subRegion": "South America",
+    "topLevelDomain": ".ve",
+    "currencies": [
+      "Venezuelan bol\u00edvar soberano"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "BRA",
+      "COL",
+      "GUY"
+    ]
+  },
+  {
+    "id": 229,
+    "flag": "https://flagcdn.com/lr.svg",
+    "internationalName": "Republic of Liberia",
+    "population": "5057677",
+    "region": "Africa",
+    "capital": "Monrovia",
+    "nativeName": "Liberia",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".lr",
+    "currencies": [
+      "Liberian dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ]
+  },
+  {
+    "id": 230,
+    "flag": "https://flagcdn.com/jm.svg",
+    "internationalName": "Jamaica",
+    "population": "2961161",
+    "region": "Americas",
+    "capital": "Kingston",
+    "nativeName": "Jamaica",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".jm",
+    "currencies": [
+      "Jamaican dollar"
+    ],
+    "languages": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 231,
+    "flag": "https://flagcdn.com/pl.svg",
+    "internationalName": "Republic of Poland",
+    "population": "37950802",
+    "region": "Europe",
+    "capital": "Warsaw",
+    "nativeName": "Polska",
+    "subRegion": "Central Europe",
+    "topLevelDomain": ".pl",
+    "currencies": [
+      "Polish z\u0142oty"
+    ],
+    "languages": [
+      "Polish"
+    ],
+    "borderCountries": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ]
+  },
+  {
+    "id": 232,
+    "flag": "https://flagcdn.com/ky.svg",
+    "internationalName": "Cayman Islands",
+    "population": "65720",
+    "region": "Americas",
+    "capital": "George Town",
+    "nativeName": "Cayman Islands",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".ky",
+    "currencies": [
+      "Cayman Islands dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 233,
+    "flag": "https://flagcdn.com/bn.svg",
+    "internationalName": "Nation of Brunei, Abode of Peace",
+    "population": "437483",
+    "region": "Asia",
+    "capital": "Bandar Seri Begawan",
+    "nativeName": "Negara Brunei Darussalam",
+    "subRegion": "South-Eastern Asia",
+    "topLevelDomain": ".bn",
+    "currencies": [
+      "Brunei dollar",
+      "Singapore dollar"
+    ],
+    "languages": [
+      "Malay"
+    ],
+    "borderCountries": [
+      "MYS"
+    ]
+  },
+  {
+    "id": 234,
+    "flag": "https://flagcdn.com/km.svg",
+    "internationalName": "Union of the Comoros",
+    "population": "869595",
+    "region": "Africa",
+    "capital": "Moroni",
+    "nativeName": "\u0627\u0644\u0642\u0645\u0631\u200e",
+    "subRegion": "Eastern Africa",
+    "topLevelDomain": ".km",
+    "currencies": [
+      "Comorian franc"
+    ],
+    "languages": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 235,
+    "flag": "https://flagcdn.com/gu.svg",
+    "internationalName": "Guam",
+    "population": "168783",
+    "region": "Oceania",
+    "capital": "Hag\u00e5t\u00f1a",
+    "nativeName": "Gu\u00e5h\u00e5n",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".gu",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 236,
+    "flag": "https://flagcdn.com/to.svg",
+    "internationalName": "Kingdom of Tonga",
+    "population": "105697",
+    "region": "Oceania",
+    "capital": "Nuku'alofa",
+    "nativeName": "Tonga",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".to",
+    "currencies": [
+      "Tongan pa\u02bbanga"
+    ],
+    "languages": [
+      "English",
+      "Tongan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 237,
+    "flag": "https://flagcdn.com/ki.svg",
+    "internationalName": "Independent and Sovereign Republic of Kiribati",
+    "population": "119446",
+    "region": "Oceania",
+    "capital": "South Tarawa",
+    "nativeName": "Kiribati",
+    "subRegion": "Micronesia",
+    "topLevelDomain": ".ki",
+    "currencies": [
+      "Australian dollar",
+      "Kiribati dollar"
+    ],
+    "languages": [
+      "English",
+      "Gilbertese"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 238,
+    "flag": "https://flagcdn.com/gh.svg",
+    "internationalName": "Republic of Ghana",
+    "population": "31072945",
+    "region": "Africa",
+    "capital": "Accra",
+    "nativeName": "Ghana",
+    "subRegion": "Western Africa",
+    "topLevelDomain": ".gh",
+    "currencies": [
+      "Ghanaian cedi"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ]
+  },
+  {
+    "id": 239,
+    "flag": "https://flagcdn.com/td.svg",
+    "internationalName": "Republic of Chad",
+    "population": "16425859",
+    "region": "Africa",
+    "capital": "N'Djamena",
+    "nativeName": "\u062a\u0634\u0627\u062f\u200e",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".td",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borderCountries": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ]
+  },
+  {
+    "id": 240,
+    "flag": "https://flagcdn.com/zw.svg",
+    "internationalName": "Republic of Zimbabwe",
+    "population": "14862927",
+    "region": "Africa",
+    "capital": "Harare",
+    "nativeName": "Zimbabwe",
+    "subRegion": "Southern Africa",
+    "topLevelDomain": ".zw",
+    "currencies": [
+      "Zimbabwean dollar"
+    ],
+    "languages": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "borderCountries": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ]
+  },
+  {
+    "id": 241,
+    "flag": "https://flagcdn.com/mf.svg",
+    "internationalName": "Saint Martin",
+    "population": "38659",
+    "region": "Americas",
+    "capital": "Marigot",
+    "nativeName": "Saint-Martin",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".fr",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "French"
+    ],
+    "borderCountries": [
+      "SXM"
+    ]
+  },
+  {
+    "id": 242,
+    "flag": "https://flagcdn.com/mn.svg",
+    "internationalName": "Mongolia",
+    "population": "3278292",
+    "region": "Asia",
+    "capital": "Ulan Bator",
+    "nativeName": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "subRegion": "Eastern Asia",
+    "topLevelDomain": ".mn",
+    "currencies": [
+      "Mongolian t\u00f6gr\u00f6g"
+    ],
+    "languages": [
+      "Mongolian"
+    ],
+    "borderCountries": [
+      "CHN",
+      "RUS"
+    ]
+  },
+  {
+    "id": 243,
+    "flag": "https://flagcdn.com/pt.svg",
+    "internationalName": "Portuguese Republic",
+    "population": "10305564",
+    "region": "Europe",
+    "capital": "Lisbon",
+    "nativeName": "Portugal",
+    "subRegion": "Southern Europe",
+    "topLevelDomain": ".pt",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "borderCountries": [
+      "ESP"
+    ]
+  },
+  {
+    "id": 244,
+    "flag": "https://flagcdn.com/as.svg",
+    "internationalName": "American Samoa",
+    "population": "55197",
+    "region": "Oceania",
+    "capital": "Pago Pago",
+    "nativeName": "American Samoa",
+    "subRegion": "Polynesia",
+    "topLevelDomain": ".as",
+    "currencies": [
+      "United States dollar"
+    ],
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 245,
+    "flag": "https://flagcdn.com/cg.svg",
+    "internationalName": "Republic of the Congo",
+    "population": "5657000",
+    "region": "Africa",
+    "capital": "Brazzaville",
+    "nativeName": "R\u00e9publique du Congo",
+    "subRegion": "Middle Africa",
+    "topLevelDomain": ".cg",
+    "currencies": [
+      "Central African CFA franc"
+    ],
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "borderCountries": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ]
+  },
+  {
+    "id": 246,
+    "flag": "https://flagcdn.com/be.svg",
+    "internationalName": "Kingdom of Belgium",
+    "population": "11555997",
+    "region": "Europe",
+    "capital": "Brussels",
+    "nativeName": "Belgien",
+    "subRegion": "Western Europe",
+    "topLevelDomain": ".be",
+    "currencies": [
+      "Euro"
+    ],
+    "languages": [
+      "German",
+      "French",
+      "Dutch"
+    ],
+    "borderCountries": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ]
+  },
+  {
+    "id": 247,
+    "flag": "https://flagcdn.com/il.svg",
+    "internationalName": "State of Israel",
+    "population": "9216900",
+    "region": "Asia",
+    "capital": "Jerusalem",
+    "nativeName": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+    "subRegion": "Western Asia",
+    "topLevelDomain": ".il",
+    "currencies": [
+      "Israeli new shekel"
+    ],
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "borderCountries": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ]
+  },
+  {
+    "id": 248,
+    "flag": "https://flagcdn.com/nz.svg",
+    "internationalName": "New Zealand",
+    "population": "5084300",
+    "region": "Oceania",
+    "capital": "Wellington",
+    "nativeName": "New Zealand",
+    "subRegion": "Australia and New Zealand",
+    "topLevelDomain": ".nz",
+    "currencies": [
+      "New Zealand dollar"
+    ],
+    "languages": [
+      "English",
+      "M\u0101ori",
+      "New Zealand Sign Language"
+    ],
+    "borderCountries": []
+  },
+  {
+    "id": 249,
+    "flag": "https://flagcdn.com/ni.svg",
+    "internationalName": "Republic of Nicaragua",
+    "population": "6624554",
+    "region": "Americas",
+    "capital": "Managua",
+    "nativeName": "Nicaragua",
+    "subRegion": "Central America",
+    "topLevelDomain": ".ni",
+    "currencies": [
+      "Nicaraguan c\u00f3rdoba"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "borderCountries": [
+      "CRI",
+      "HND"
+    ]
+  },
+  {
+    "id": 250,
+    "flag": "https://flagcdn.com/ai.svg",
+    "internationalName": "Anguilla",
+    "population": "13452",
+    "region": "Americas",
+    "capital": "The Valley",
+    "nativeName": "Anguilla",
+    "subRegion": "Caribbean",
+    "topLevelDomain": ".ai",
+    "currencies": [
+      "Eastern Caribbean dollar"
+    ],
+    "languages": [
+      "English"
+    ],
+    "borderCountries": []
+  }
+]
